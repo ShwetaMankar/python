@@ -1,0 +1,16 @@
+def studentsInformation(name,college,rollno,branch,year):
+	print("Name of student : ",name)
+	print("College of student : ",college)
+	print("Roll No of student : ",rollno)
+	print("Branch of student : ",branch)
+	print("Year of student : ",year)
+
+studentsInformation("Shweta","GRWPT",19126,"Computer","Third")
+print()
+studentsInformation("Sayee","WCE",21101,"Civil","First")
+print()
+studentsInformation("Sanika","PVPIT",21109,"Computer","First")
+print()
+studentsInformation("Anuja","PVPIT",21103,"Computer","First")
+print()
+studentsInformation("Namrata","VIIT",21126,"Computer","Second")
